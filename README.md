@@ -16,11 +16,11 @@ Keep your career organized without handing your data to a third party.
 ---
 
 ## Preview
-*(<img width="798" height="600" alt="nextMoveSS" src="https://github.com/user-attachments/assets/13e00fe3-e942-42fc-8bf7-f401ccd9df44" />
-)*
+(<img width="798" height="600" alt="nextMoveSS" src="https://github.com/user-attachments/assets/13e00fe3-e942-42fc-8bf7-f401ccd9df44" />
+*
 
-*(<img width="1920" height="1037" alt="nextMoveSSlg" src="https://github.com/user-attachments/assets/91c9ffcf-2cae-46cc-91f7-a6d8c6b68335" />
-)*
+*<img width="1920" height="1037" alt="nextMoveSSlg" src="https://github.com/user-attachments/assets/91c9ffcf-2cae-46cc-91f7-a6d8c6b68335" />
+*
 
 ---
 
