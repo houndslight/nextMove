@@ -2,6 +2,7 @@
 name = "nextMove"
 version = "0.1.0"
 edition = "2021"
+build = "build.rs"
 
 [dependencies]
 eframe = "0.24"
@@ -10,3 +11,6 @@ serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 chrono = { version = "0.4", features = ["serde"] }
 winapi = { version = "0.3", features = ["windef", "winuser"] }
+
+[build-dependencies]
+winres = "0.1"
