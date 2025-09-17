@@ -26,8 +26,11 @@ jobs:
         profile: minimal
         override: true
 
-    - name: Build
-      run: cargo build --verbose
+    - name: Build Release
+      run: cargo build --release
 
-    - name: Run tests
-      run: cargo test --verbose
+    - name: Upload Binaries
+      uses: actions/upload-artifact@v3
+      with:
+        name: nextmove-${{ matrix.os }}
+        path: target/release/nextmove
