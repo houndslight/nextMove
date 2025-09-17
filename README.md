@@ -31,24 +31,22 @@ Keep your career organized without handing your data to a third party.
 git clone https://github.com/yourusername/nextMove.git
 cd nextMove
 cargo run
+```
 
 ### Build For Release
-
+```bash
 cargo build --release
+```
 
 ## Data Storage
 
-All job application data is saved locally in:
-job_data.json
+All job application data is saved locally in `job_data.json`.
 
 ## Roadmap
 
 - Export applications to CSV/Markdown
-
 - Search and filter jobs
-
 - Tags/labels for applications
-
 - Pre-built cross-platform binaries
 
 ## Contributing
@@ -56,26 +54,20 @@ job_data.json
 Contributions are welcome.
 
 - Fork the repository
-
-- Create a feature branch (git checkout -b feature/my-feature)
-
-- Commit changes (git commit -m "Add my feature")
-
-- Push to your branch (git push origin feature/my-feature)
-
+- Create a feature branch (`git checkout -b feature/my-feature`)
+- Commit changes (`git commit -m "Add my feature"`)
+- Push to your branch (`git push origin feature/my-feature`)
 - Open a Pull Request
 
 ## License
 
-Licensed under the MIT License.
+Licensed under the MIT License.  
 Free to use, modify, and distribute.
 
 ## Philosophy
 
-## nextMove was designed to be:
+nextMove was designed to be:
 
 - Local-first — all data stays on your machine
-
 - Minimal — no unnecessary features or bloat
-
 - Free & Open — built in Rust and shared with the community
