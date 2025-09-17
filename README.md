@@ -36,12 +36,12 @@ cargo run
 
 cargo build --release
 
-### Data Storage
+## Data Storage
 
 All job application data is saved locally in:
 job_data.json
 
-### Roadmap
+## Roadmap
 
 - Export applications to CSV/Markdown
 
@@ -51,7 +51,7 @@ job_data.json
 
 - Pre-built cross-platform binaries
 
-### Contributing
+## Contributing
 
 Contributions are welcome.
 
@@ -65,14 +65,14 @@ Contributions are welcome.
 
 - Open a Pull Request
 
-### License
+## License
 
 Licensed under the MIT License.
 Free to use, modify, and distribute.
 
-###Philosophy
+## Philosophy
 
-##nextMove was designed to be:
+## nextMove was designed to be:
 
 - Local-first — all data stays on your machine
 
