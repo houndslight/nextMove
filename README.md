@@ -31,7 +31,7 @@ Keep your career organized without handing your data to a third party.
 
 ### Clone & Run
 ```bash
-git clone https://github.com/yourusername/nextMove.git
+git clone https://github.com/houndslight/nextMove.git
 cd nextMove
 cargo run
 ```
